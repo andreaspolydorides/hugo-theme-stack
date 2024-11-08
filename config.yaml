@@ -21,7 +21,7 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle: "I write about products and events in the DIY/Tech space and any projects I take on"
+          subtitle: "I plan to write about products and events in the DIY space as well as about any projects I take on."
         avatar:
             enabled: false
             local: true
@@ -158,3 +158,4 @@ params:
             enabled: true
         content:
             enabled: true
+
